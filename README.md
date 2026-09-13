@@ -98,4 +98,4 @@ See `CONTRIBUTING.md` for the same checklist in contributor-facing form.
 
 ## License
 
-Dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE), at your option.
+Licensed under [MIT](LICENSE-MIT).
